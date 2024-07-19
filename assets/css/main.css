@@ -2674,3 +2674,11 @@ button{
   border: 1px solid black;
   
 }
+
+
+
+button{
+  background-color: rgba(182, 95, 175, 0.459);
+  border-radius: 20px;
+  border: none;
+}
